@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 I am a Software Engineering Student at **McMaster University**. I have a passion for technology and programming, and I am constantly seeking to learn and grow in my field.
 
 ### Skills and Expertise 🛠️
-- **Languages:** Python, Java, Bash, C
-- [![SkillIcons](https://skillicons.dev/icons?i=py,java,bash,c,figma)](https://skillicons.dev)<br/>
+- **Languages:** Python, Java, Bash, C, Selenium, Figma
+- [![SkillIcons](https://skillicons.dev/icons?i=py,java,bash,c,selenium,figma)](https://skillicons.dev)<br/>
 - **Development:** I'm skilled in developing software solutions, scripting, and problem-solving.
 - **Collaboration:** Teamwork and collaborative projects are my strengths, and I'm always open to new experiences and opportunities.
 
