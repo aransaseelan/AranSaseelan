@@ -17,7 +17,7 @@ I am a Software Engineering Student at **McMaster University**. I have a passion
 ### Interests 🌐
 - I'm interested in exploring new technologies and frameworks.
 - I enjoy working on open-source projects and contributing to the tech community.
-- In my free time, I love coding, reading tech blogs, and participating in hackathons.
+- In my free time, I love coding, playing basketball, reading tech blogs, and participating in hackathons.
 
 
 ### Connect with Me 🌎
