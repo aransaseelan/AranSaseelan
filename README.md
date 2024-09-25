@@ -1,27 +1,22 @@
-# Welcome to Aran's profile! <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30"></h3>  
-Welcome to my GitHub profile!
+# About Me 💫
+I am a Software Engineering Student at McMaster University. I have a passion for automation and am constantly seeking to learn and grow in Software development.
 
-## About Me 🚀
+# 💡 Ask Me About
 
-I am a Software Engineering Student at **McMaster University**. I have a passion for technology and programming, and I am constantly seeking to learn and grow in my field.
+- My experiences in the tech industry, including my internships at **RBC** and **The Steam Project**.
+- My role as the Head Delegate for the Canadian University Software Engineering Conference.
+- My role as Logistics Director for Hack the Valley.
 
-### Skills and Expertise 🛠️
-- **Languages:** Python, Java, Bash, C, Selenium, Figma, Latex
-- [![SkillIcons](https://skillicons.dev/icons?i=py,java,bash,c,selenium,figma,latex)](https://skillicons.dev)<br/>
-- **Development:** I'm skilled in developing software solutions, scripting, and problem-solving.
-- **Collaboration:** Teamwork and collaborative projects are my strengths, and I'm always open to new experiences and opportunities.
+# Socials 🌎
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aransaseelan/) 
 
-### Education 🎓
-- Bachelor of Software Engineering, McMaster University (In Progress)
-
-### Interests 🌐
-- I'm interested in exploring new technologies and frameworks.
-- I enjoy working on open-source projects and contributing to the tech community.
-- In my free time, I love coding, playing basketball, reading tech blogs, and participating in hackathons.
-
-
-### Connect with Me 🌎
-- LinkedIn: [AranSaseelan](https://www.linkedin.com/in/aransaseelan/)
-
-Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project.
-
+# Skills and Expertise 🛠️
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
