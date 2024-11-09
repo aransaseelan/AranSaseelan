@@ -4,7 +4,7 @@ I am a Software Engineering Student at McMaster University. I have a passion for
 # 💡 Ask Me About
 
 - My experiences in the tech industry, including my internships at **RBC** and **The Steam Project**.
-- My role as the Head Delegate for the Canadian University Software Engineering Conference.
+- My role as the Head Delegate for the Canadian University Software Engineering Conference
 - My role as Logistics Director for Hack the Valley.
 
 # Socials 🌎
