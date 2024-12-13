@@ -7,9 +7,6 @@ I am a Software Engineering Student at McMaster University. I have a passion for
 - My role as the Head Delegate for the Canadian University Software Engineering Conference
 - My role as Logistics Director for Hack the Valley.
 
-# Socials 🌎
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aransaseelan/) 
-
 # Skills and Expertise 🛠️
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
