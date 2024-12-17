@@ -17,3 +17,4 @@ I am a Software Engineering Student at McMaster University. I have a passion for
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
